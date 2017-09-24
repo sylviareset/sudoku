@@ -1,7 +1,0 @@
-﻿  sudoku.cpp
-c:\users\asus\desktop\sudokuproject\sudokuproject\sudoku.cpp(111): warning C4101: “j”: 未引用的局部变量
-c:\users\asus\desktop\sudokuproject\sudokuproject\sudoku.cpp(111): warning C4101: “i”: 未引用的局部变量
-LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
-sudoku.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
-  sudokuProject.vcxproj -> C:\Users\ASUS\Desktop\sudokuProject\Debug\sudokuProject.exe
-  sudokuProject.vcxproj -> C:\Users\ASUS\Desktop\sudokuProject\Debug\sudokuProject.pdb (Partial PDB)
